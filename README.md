@@ -1,4 +1,4 @@
-# 🎓 Mosdent Platform v4.0
+# 🎓 Mosdent Platform v1.0
 
 Mosdent is a sophisticated SaaS platform for managing educational institutions, communities, and national education networks. Built with a modular Multi-Tenant architecture supporting complete data isolation and flexible feature packaging.
 
@@ -182,4 +182,4 @@ For issues and questions, please contact the development team.
 ---
 
 **Last Updated:** May 24, 2026
-**Version:** 4.0.0
+**Version:** 1.0.0
