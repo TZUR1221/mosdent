@@ -1,0 +1,14 @@
+node_modules
+dist
+logs
+coverage
+.env
+.env.*
+npm-debug.log*
+*.log
+.git
+.github
+docs
+tests
+mosdent_*.txt
+mosdent_client.html
